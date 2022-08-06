@@ -1,4 +1,4 @@
-Do give it an upvote and comment (here)[https://leetcode.com/problems/trips-and-users/discuss/2387831/mysql-using-cte-only-no-joins]
+Do give it an upvote and comment [here](https://leetcode.com/problems/trips-and-users/discuss/2387831/mysql-using-cte-only-no-joins)
 
 ## Using CTE 
 
